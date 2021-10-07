@@ -1,5 +1,9 @@
 #
 
+## [v5.9.2](https://github.com/cschinkmann/codescene_android/tree/v5.9.2) (2021-10-07)
+
+#
+
 ## [v5.9.1](https://github.com/mixpanel/mixpanel-android/tree/v5.9.1) (2021-05-18)
 
 **Closed issues:**
@@ -23,6 +27,8 @@
 **Merged pull requests:**
 
 - Remove messages and experiments feature [\#733](https://github.com/mixpanel/mixpanel-android/pull/733)
+
+
 
 
 
